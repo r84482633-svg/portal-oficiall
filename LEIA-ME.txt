@@ -1,0 +1,25 @@
+SITE - 54.351.601 Daiane Alexandre de Sousa Gouveia
+
+Arquivos:
+- index.html: página inicial em formato one-page, com seções de atuação, empresa e contato.
+- sobre.html: página institucional.
+- politica-privacidade.html: política de privacidade.
+- termos-de-uso.html: termos de uso.
+- assets/: imagens enviadas e folha de estilos.
+
+Como publicar:
+1. Extraia o ZIP mantendo a estrutura de pastas.
+2. Envie todos os arquivos e a pasta assets para a raiz do seu domínio/ hospedagem.
+3. Abra index.html pelo domínio.
+4. Teste os links, telefone e WhatsApp em celular e computador.
+
+Tecnologias:
+- HTML5, CSS3, Bootstrap 5.3.3 e Bootstrap Icons via CDN.
+- As imagens enviadas pelo cliente estão na pasta assets.
+
+Atenção antes de anunciar no Google Ads:
+- O site é um modelo inicial e não substitui revisão jurídica ou cadastral.
+- Confirme se razão social, CNPJ, endereço, atividade e contatos estão corretos e atualizados.
+- A política descreve a configuração atual sem formulário ou tags de rastreamento próprias. Se instalar Google Ads tag, Analytics, pixels, cookies, formulário ou ferramentas de terceiros, atualize a política e implemente mecanismo de consentimento quando exigido.
+- Não anuncie serviços não prestados. O conteúdo limita a atividade divulgada a transporte municipal de cargas, exceto produtos perigosos e mudanças.
+- Bootstrap, Bootstrap Icons e fontes Google são carregados de CDNs/serviços externos.
